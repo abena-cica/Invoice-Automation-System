@@ -50,15 +50,6 @@ This project was developed to help small businesses:
 - Improved accuracy and consistency in records
 - Enabled faster reporting and decision-making
 
-  ## 📸 Sample Output
-
-### Invoice Example
-![Invoice](invoice screenshot.png)
-
-
-### Sales Dashboard
-![Dashboard](invoice dashboard.png)
-
 ## 📂 How to Use
 
 1. Open the Excel file  
