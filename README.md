@@ -53,10 +53,11 @@ This project was developed to help small businesses:
   ## 📸 Sample Output
 
 ### Invoice Example
+![Invoice](invoice screenshot.png)
 
 
 ### Sales Dashboard
-
+![Dashboard](invoice dashboard.png)
 
 ## 📂 How to Use
 
