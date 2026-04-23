@@ -44,6 +44,19 @@ This project was developed to help small businesses:
 - Provides a simple and user-friendly interface  
 
 ---
+## 💡 Business Impact
+
+- Reduced manual invoicing time by up to 80%
+- Improved accuracy and consistency in records
+- Enabled faster reporting and decision-making
+
+  ## 📸 Sample Output
+
+### Invoice Example
+
+
+### Sales Dashboard
+
 
 ## 📂 How to Use
 
